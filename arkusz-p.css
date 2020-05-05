@@ -1,0 +1,69 @@
+body{background-color:#BBD9DE;font-family:Constania;color:#417991;}
+table{border-style:none; border-color:#417991; border-width:5pt; height:200pt; width:200pt;
+ text-align:center; color:#E899CB; font-family:Constania; font-size:large; background-color:#E899CB;margin:auto;}
+tr{height:15pt; width:45pt; background-color:#E6ECF4;}
+ol{list-style-type:decimal; list-style-position: inside;line-height:32pt;}
+ul{list-style-type:circle; list-style-position: inside;line-height:32pt;}
+h1{color:#E899CB;font-family:Courier New;font-weight:bolder;font-size:42pt;text-align:center;}
+a:visited{color:#708489;}
+a:link{color:#417991;}
+p{font-family:Courier New;font-weight:bold;}
+.content
+{
+margin:0pt;
+width:100%;
+}
+.header
+{
+width:100%;
+height:20%;
+background-image:url(foto/drewno.jpg);
+text-align:center;
+}
+.menu
+{
+width:100%;
+height:40%;
+background-color:#BBD9DE;
+float:left;
+text-align:center;
+}
+
+.aside1
+{
+width:100%;
+height:40%;
+background-color:#E5D6E3;
+text-align:left;
+float:left;
+line-height:16pt;
+}
+.aside2
+{
+width:100%;
+background-image:url(foto/drewno.jpg);
+text-align:center;
+float:left;
+line-height:16pt;
+}
+.gallery
+{
+	margin: auto;
+}
+.gallery img
+{
+	height:250pt;
+	width:200pt;
+	padding: 10pt;
+}
+.footer
+{
+	width:100%;
+	height:10%;
+	background-color:#BBD9DE;
+	color:#E899CB;
+	clear:both;
+	text-align:center;
+	font-family:Courier New;
+	font-size:15pt;
+}
